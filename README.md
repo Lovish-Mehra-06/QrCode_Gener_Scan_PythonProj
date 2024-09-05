@@ -1,0 +1,1 @@
+# QrCode_Gener_Scan_PythonProj
